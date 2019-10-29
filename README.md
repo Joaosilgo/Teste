@@ -3,4 +3,5 @@ Teste Repository
 If you want to embed images, this is how you do it:
 
 
-![Screenshot](Git-Logo.png)
+![Preview](https://raw.githubusercontent.com/Joaosilgo/Teste/master/Git-Logo.png)
+
